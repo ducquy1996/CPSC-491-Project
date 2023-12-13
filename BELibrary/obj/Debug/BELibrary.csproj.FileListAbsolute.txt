@@ -1,0 +1,36 @@
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\BELibrary.dll.config
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\BELibrary.dll
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\BELibrary.pdb
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\EntityFramework.dll
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\EntityFramework.xml
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.Migrations.Change_Gender_User_Table.resources
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_LectureId_To_StudentTest_Table.resources
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Status_To_StudentTest_Table.resources
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.Migrations.Allow_Null_ReplyFile_StudentTest.resources
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.dll
+E:\ProjectSell\WEBSITE\NET\QuanLyLopHoc\Project\ELearning-master\Source\BELibrary\obj\Debug\BELibrary.pdb
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\BELibrary.dll.config
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\BELibrary.dll
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\BELibrary.pdb
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\EntityFramework.dll
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\EntityFramework.xml
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.Migrations.Init_Database.resources
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.Migrations.Change_Gender_User_Table.resources
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_LectureId_To_StudentTest_Table.resources
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.Migrations.Add_Status_To_StudentTest_Table.resources
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.Migrations.Allow_Null_ReplyFile_StudentTest.resources
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.dll
+C:\Users\quy95\Desktop\CPSC 490Spring2023\Source\BELibrary\obj\Debug\BELibrary.pdb
