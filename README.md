@@ -4,6 +4,7 @@ Installation and Setup Guides
 -Installation
   1.	Visual studio with .NET framework, C#, HLML, ASP.NET environment for web development 
   2.	Microsoft SQL server
+  3.	Download Package: https://drive.google.com/drive/folders/1YAJurHwnmG99ymx7Lwe91Ohn2Ljcp-_D?usp=sharing
 -Setup Guides
   1.	Extract the file. 
   2.	There also a database file in the compress file. Use it to install to SQL server. Because It is a version of our personal computer. Please edit the name of your computer SQL name in the web.config file. See images below for more information.  
